@@ -3,7 +3,7 @@ This is the package repo for downloading and installing ischool app.
 
 ## Download Setup
 
-1. Download zip package (ischool.app-main.zip). (75 MB)
+1. Download zip package (ischool.app-main.zip). (~150 MB)
 2. Extract the files.
 3. Install the app package.
 4. Run the app.
